@@ -1,4 +1,0 @@
-"Measure","Rule","Support_percent","Confidence_percent","Lift"
-"Highest confidence","{citrus fruit,root vegetables} => {other vegetables}",1.04,58.62,3.03
-"Highest lift","{citrus fruit,other vegetables} => {root vegetables}",1.04,35.92,3.295
-"Highest support","{other vegetables} => {whole milk}",7.48,38.68,1.514
