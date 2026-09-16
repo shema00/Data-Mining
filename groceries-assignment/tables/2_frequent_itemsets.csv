@@ -1,0 +1,11 @@
+"Itemset","Baskets","Support_percent"
+"{other vegetables,whole milk}",736,7.48
+"{rolls/buns,whole milk}",557,5.66
+"{whole milk,yogurt}",551,5.6
+"{root vegetables,whole milk}",481,4.89
+"{other vegetables,root vegetables}",466,4.74
+"{other vegetables,yogurt}",427,4.34
+"{other vegetables,rolls/buns}",419,4.26
+"{tropical fruit,whole milk}",416,4.23
+"{soda,whole milk}",394,4.01
+"{rolls/buns,soda}",377,3.83

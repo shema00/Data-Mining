@@ -1,0 +1,11 @@
+"Rule","Antecedent","Consequent","Support_percent","Confidence_percent","Lift"
+1,"{other vegetables}","{whole milk}",7.48,38.68,1.514
+2,"{rolls/buns}","{whole milk}",5.66,30.79,1.205
+3,"{yogurt}","{whole milk}",5.6,40.16,1.572
+4,"{root vegetables}","{whole milk}",4.89,44.87,1.756
+5,"{root vegetables}","{other vegetables}",4.74,43.47,2.247
+6,"{yogurt}","{other vegetables}",4.34,31.12,1.608
+7,"{tropical fruit}","{whole milk}",4.23,40.31,1.578
+8,"{tropical fruit}","{other vegetables}",3.59,34.21,1.768
+9,"{citrus fruit,root vegetables}","{other vegetables}",1.04,58.62,3.03
+10,"{citrus fruit,other vegetables}","{root vegetables}",1.04,35.92,3.295

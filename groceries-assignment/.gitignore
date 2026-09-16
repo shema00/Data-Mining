@@ -1,0 +1,22 @@
+# Local verification files and report-building utilities
+verification/
+tools/
+results/
+data/
+requirements/
+
+# Local study guide and downloadable archive
+Code_Explanation.md
+Assignment_Submission.zip
+
+# R session files and editor settings
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.vscode/
+.idea/
+
+# Temporary Office files
+~$*
+*.tmp
